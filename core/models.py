@@ -24,7 +24,7 @@ class Servico(Base):
         ('lni-users', 'Usuários'),
         ('lni-layers', 'Design'),
         ('lni-mobile', 'Mobile'),
-        ('lni-rockete', 'Foguete'),
+        ('lni-rocket', 'Foguete'),
     )
     nome = models.CharField('Nome', max_length=100)
     descricao = models.TextField('Descrição', max_length=200)

@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f43a2ad-a54d-4a57-ae11-5bb2e5d84344" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/templates/equipe.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/equipe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/hero.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/templates/servicos.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/servicos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +82,9 @@
       <workItem from="1582857157141" duration="1843000" />
       <workItem from="1582859031940" duration="1779000" />
       <workItem from="1582861053392" duration="1963000" />
-      <workItem from="1582863043760" duration="74000" />
+      <workItem from="1582863043760" duration="291000" />
+      <workItem from="1582945900971" duration="1781000" />
+      <workItem from="1582947718926" duration="696000" />
     </task>
     <servers />
   </component>
