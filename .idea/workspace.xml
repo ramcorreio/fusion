@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f43a2ad-a54d-4a57-ae11-5bb2e5d84344" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/core/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/equipe.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/equipe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/servicos.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/servicos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/contato.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/hero.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fusion/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/fusion/settings.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -27,11 +28,17 @@
   </component>
   <component name="ProjectId" id="1YBHbut974gm51DKFaCnOeXYsDf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/core/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,18 +52,6 @@
       <recent name="D:\OneDriveFull\OneDrive\outros\workspaces\python\fusion\core\templates" />
       <recent name="D:\OneDriveFull\OneDrive\outros\workspaces\python\fusion\core\static" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -84,7 +79,10 @@
       <workItem from="1582861053392" duration="1963000" />
       <workItem from="1582863043760" duration="291000" />
       <workItem from="1582945900971" duration="1781000" />
-      <workItem from="1582947718926" duration="696000" />
+      <workItem from="1582947718926" duration="1778000" />
+      <workItem from="1582949533952" duration="2168000" />
+      <workItem from="1582951748529" duration="1098000" />
+      <workItem from="1582953584915" duration="267000" />
     </task>
     <servers />
   </component>
@@ -103,5 +101,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583109123213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583109123213" />
+    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1583109196572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583109196572" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1583109228767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583109228767" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1583109103062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583109103062" />
   </component>
 </project>
