@@ -3,10 +3,12 @@ from django.db import models
 
 from stdimage.models import StdImageField
 
+
 def get_file_path(_instance, filename):
     ext = filename.split('.')[-1]
     filename = f'{uuid.uuid4()}.{ext}'
     return filename
+
 
 class Base(models.Model):
     criado = models.DateField('Criação', auto_now_add=True)
@@ -47,6 +49,7 @@ class Cargo(Base):
 
     def __str__(self):
         return self.nome
+
 
 class Funcionario(Base):
     nome = models.CharField('Nome', max_length=100)
