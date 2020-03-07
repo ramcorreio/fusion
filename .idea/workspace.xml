@@ -4,7 +4,7 @@
     <list default="true" id="1f43a2ad-a54d-4a57-ae11-5bb2e5d84344" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/tests/test_forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/tests/test_forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests/test_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/tests/test_views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
